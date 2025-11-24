@@ -66,4 +66,24 @@ et participé à plusieurs projets dans l’**EdTech**, la **vision par ordinate
 
 ---
 
-## 📁 Repo Structure (suggestion)
+
+---
+
+## 🗒️ Currently Exploring
+
+- Recommender Systems for Education 🧑‍🏫  
+- DevOps (Docker, CI/CD, deployment)  
+- NLP for learning platforms  
+- Interactive learning tools powered by AI
+
+---
+
+## 🤝 Let's Connect!
+
+📩 Email : **moussaidhicham545@gmail.com**  
+🔗 LinkedIn : **https://linkedin.com/in/hicham-moussaid**  
+🐙 GitHub : **https://github.com/moussaidhicham**
+
+---
+
+_« Toujours curieux, passionné par l’innovation et le partage 🚀 »_  
