@@ -18,7 +18,8 @@ Je suis un développeur passionné, spécialisé en **développement web full-st
 Actuellement étudiant en Master à l'ENS Meknès, j’ai **co-rédigé un article scientifique** (I2ASD 2025) sur le Deep Learning  
 et participé à plusieurs projets dans l’**EdTech**, la **vision par ordinateur** et l’**analyse de données**.
 
-📄 **Mon CV** → [`CV_VF.pdf`](./CV_VF.pdf)
+📄 **Mon CV** →  
+[👉 Télécharger / Voir le CV](https://github.com/moussaidhicham/moussaidhicham/blob/main/CV.pdf)
 
 ---
 
