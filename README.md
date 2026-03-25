@@ -6,19 +6,29 @@
 
 ---
 
-🎓 **Master Student in Intelligent Systems for Education** @ ENS Meknès  
-🏆 **Web & AI Developer** | EdTech · Deep Learning · Vision Par Ordinateur  
-📍 Beni Mellal, Morocco · *Always learning, always building* 🚀  
-
+🎓 Master’s Student in Intelligent Systems for Education @ ENS Meknès
+🏆 Aspiring Data Analyst | Python · SQL · Data Visualization · Power BI
+📍 Beni Mellal, Morocco · Always learning, always building 🚀
 ---
 
 ## 🚀 About Me
 
-Je suis un développeur passionné, spécialisé en **développement web full-stack** et en **intelligence artificielle**.  
-Actuellement étudiant en Master à l'ENS Meknès, j’ai **co-rédigé un article scientifique** (I2ASD 2025) sur le Deep Learning  
-et participé à plusieurs projets dans l’**EdTech**, la **vision par ordinateur** et l’**analyse de données**.
+I am a Master’s student in Intelligent Systems for Education at ENS Meknès with a strong background in programming, AI, and web development.
 
+Currently, I am specializing in Data Analysis, where I combine technical skills with analytical thinking to extract meaningful insights from data.
+
+I have experience in:
+
+Python (Pandas, NumPy)
+SQL (data querying and analysis)
+Data visualization tools (Power BI, Matplotlib)
+Data preprocessing, cleaning, and reporting
+
+I have co-authored a research paper on bank term deposit prediction using deep learning (I2ASD 2025) and contributed to multiple data-driven educational technology projects.
+
+I am actively building my portfolio to showcase my data analysis skills and am seeking opportunities as a Data Analyst.
 📄 **Mon CV** →  
+
 [👉 Télécharger / Voir le CV](https://github.com/moussaidhicham/moussaidhicham/blob/main/CV.pdf)
 
 ---
@@ -32,6 +42,12 @@ et participé à plusieurs projets dans l’**EdTech**, la **vision par ordinate
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![JakartaEE](https://img.shields.io/badge/JakartaEE-E2863B?style=flat-square&logo=java)
+### 📊 Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+### 🤖 AI & Computer Vision 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv)
 
 ### 📦 Outils & Dev
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
@@ -39,31 +55,25 @@ et participé à plusieurs projets dans l’**EdTech**, la **vision par ordinate
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=flat-square&logo=visual-studio-code)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 
-### 🤖 IA & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv)
 
 ---
 
 ## 🌟 Highlights
 
-✔ **Co-author** — Scientific publication (I2ASD 2025)  
-✔ **Full-stack web apps** for education (Laravel · React · WordPress · Jakarta EE)  
-✔ **AI apps** — Image segmentation, Active Contour, data analytics  
-✔ **Educational technology** is my main research interest 🧠📚  
-
+✔ Co-author of a scientific publication on Deep Learning (I2ASD 2025)
+✔ Built full-stack educational platforms with data collection & analytics features
+✔ Developed AI apps for image segmentation, Active Contour, and reporting
+✔ Strong interest in data-driven EdTech solutions
 ---
 
 ## 🚩 Featured Projects
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| **Bank Term Deposit Prediction (I2ASD 2025)** | Deep learning + teacher-student feature selection | Python, ML |
-| **Mask R-CNN Segmentation** | Object detection & COCO dataset fine-tuning | PyTorch, Detectron2 |
-| **Course Feedback Platform** | Full-stack app with voting system | Laravel, React |
-| **Computer Vision App** | Active Contour & Hough Transform | Python, GUI |
+| Project                                       | Description                                                                    | Tools               |
+| --------------------------------------------- | ------------------------------------------------------------------------------ | ------------------- |
+| **Bank Term Deposit Prediction (I2ASD 2025)** | Data preprocessing, feature selection, predictive modeling for bank deposits   | Python, ML          |
+| **Mask R-CNN Segmentation**                   | Object detection & image dataset analysis                                      | PyTorch, Detectron2 |
+| **Course Feedback Platform**                  | Collected and analyzed user feedback, created dashboards and reports           | Laravel, React      |
+| **Computer Vision App**                       | Processed and visualized image datasets using Active Contour & Hough Transform | Python, GUI         |
 
 ---
 
@@ -71,12 +81,10 @@ et participé à plusieurs projets dans l’**EdTech**, la **vision par ordinate
 ---
 
 ## 🗒️ Currently Exploring
-
-- Recommender Systems for Education 🧑‍🏫  
-- DevOps (Docker, CI/CD, deployment)  
-- NLP for learning platforms  
-- Interactive learning tools powered by AI
-
+- Data Visualization & Dashboards (Power BI, Tableau)
+- Interactive AI-powered learning tools
+- Recommender Systems for Education
+- NLP for learning platforms
 ---
 
 ## 🤝 Let's Connect!
@@ -87,4 +95,4 @@ et participé à plusieurs projets dans l’**EdTech**, la **vision par ordinate
 
 ---
 
-_« Toujours curieux, passionné par l’innovation et le partage 🚀 »_  
+_« Always curious, passionate about learning, innovation, and sharing 🚀 »_  
